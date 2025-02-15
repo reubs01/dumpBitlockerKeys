@@ -1,0 +1,1 @@
+This PowerShell script scans all mounted volumes, identifies bitLocker encrypted drives and extracts available recovery keys. It also flags drives that are not protected. If recovery keys are found, the script provides a GUI based save file dialog allowing the user to export the keys to a CSV.
